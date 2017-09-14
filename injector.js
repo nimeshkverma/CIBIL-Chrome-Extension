@@ -1,0 +1,13 @@
+document.querySelector('input[name="inquiryAmount"]').value = '30000';
+document.querySelector('select[name="purpose"]').value = '05';
+document.querySelector('input[name="fullName"]').value = 'MINAZ SHAIKH';
+document.querySelector('input[name="dobDay"]').value = '01';
+document.querySelector('input[name="dobMonth"]').value = '12';
+document.querySelector('input[name="dobYear"]').value = '1983';
+document.querySelector('select[name="gender"]').value = '1';
+document.querySelector('input[name="incomeTaxId"]').value = 'ABCDE1234A';
+document.querySelector('input[name="universalId"]').value = '919988776655';
+document.querySelector('input[name="currrentAddress"]').value = 'MUMBAI';
+document.querySelector('select[name="currrentAddressState"]').value = '27';
+document.querySelector('select[name="currrentAddressCategory"]').value = '27';
+document.querySelector('input[name="currrentAddressPincode"]').value = '400072';

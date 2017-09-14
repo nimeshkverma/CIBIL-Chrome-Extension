@@ -1,0 +1,35 @@
+{
+  "name": "CIBIL Asst.",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description" : "A chrome pluggin to fill CIBIL forms by fetching data via CSV or API",
+  "icons": { 
+    "16": "icons/16x16.png", 
+    "48": "icons/48x48.png", 
+    "128": "icons/128x128.png" 
+  },
+  "omnibox": { "keyword" : "Assisted" },
+  
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+
+  "browser_action": {
+    "default_icon": {
+      "16": "icons/16x16.png",
+      "19": "icons/19x19.png",
+      "38": "icons/38x38.png",
+      "48": "icons/48x48.png",
+      "128": "icons/128x128.png"
+    },
+    "default_title": "Fill CIBIL forms to make life easy",
+    "default_popup": "popup.html"
+  },
+    "permissions": [
+        "tabs",
+        "http://*/*",
+        "https://*/*"
+    ]
+
+}
