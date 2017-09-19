@@ -19,14 +19,26 @@ Unpacked Extension
 - Open (chrome://extensions/) or select the menu `Window > Extensions`.
 - Enable the developer mode at top right.
 - Click `Load unpacked extension...` and select the source code folder.
-- Storify!
+- Enjoy!
 
 
 Features / Description
 -----
 
-- Form to Generate CIBIL Report looks like this and if you have to generate Report for a significant number of times, it is real pain to input each value in each of the field. This pluggin comes handy for this particular use case.
-- Using this pluggin you can Upload the data for the each of CIBIL Report you have to create in the form of a CSV in the given format and Pre Fill the data by just clicking on the next button.
+- An Empty form to be filled in order to generate a CIBIL Report looks like this:
+![Repo Tree](https://github.com/nimeshkverma/CIBIL-Chrome-Extension/blob/master/images/Empty-CIBIL-Form.png)
+- If you have to generate the report for a significant number of times, it is real pain to input each value in each of the field. This pluggin comes handy for this particular use case.
+- Using this pluggin you can Upload the data for the each of CIBIL Report you have to create in the form of a [CSV in the given format] (https://github.com/nimeshkverma/CIBIL-Chrome-Extension/blob/master/CIBIL-Input-Sample-Data.csv) and Pre Fill the data by just clicking on the next button.
+
+Usage Instructions
+-----
+- After adding the Pluggin in you chrome, click on the CIBIL Asst. Icon on near the top right corner of the chrome window
+- Following Popup will be seen:
+![Repo Tree](https://github.com/nimeshkverma/CIBIL-Chrome-Extension/blob/master/images/CIBIL-Pluggin-Options.png)
+- Click on the 'Choose File' button and select the a CSV file with the data you want to Prefill in the format similar to [this file] (https://github.com/nimeshkverma/CIBIL-Chrome-Extension/blob/master/CIBIL-Input-Sample-Data.csv)
+- Click on the 'Submit' button to Store the CSV data into the Chromes' LocalStorage
+- Click on the 'Next' button to Prefill the Data and get the following
+![Repo Tree](https://github.com/nimeshkverma/CIBIL-Chrome-Extension/blob/master/images/Filled-CIBIL-Form.png)
 
 Issues
 -----
