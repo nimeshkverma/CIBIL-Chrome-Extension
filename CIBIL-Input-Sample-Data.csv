@@ -1,32 +1,8 @@
-fullName,dobDay,dobMonth,dobYear,gender,incomeTaxId,universalId,currrentAddress,currrentAddressState,currrentAddressPincode,inquiryAmount,,,
-Amitabh Bacchan,1,1,1988,Male,CHYPK1234L,8.8606E+11,Hyderabad,Andhra Pradesh,500081,20000,,,
-Amir Khan,2,2,1989,Male,CUXPM1234M,8.14136E+11,Bangalore,Karnataka,560068,20000,,,
-Sunny Deol,3,3,1990,Male,BCVPC1234K,6.39912E+11,New Delhi,Delhi,110078,50000,,,
-Bobby Deol,4,4,1991,Male,AXKPM1234L,6.12114E+11,Jharsuguda,Odisha,768220,15000,,,
-Hritik Roshan,5,5,1992,Male,BVCPR1234A,3.88377E+11,Hyderabad,Telangana,500097,35000,,,
-Rajkumar Rao,6,6,1993,Male,AETPA1234R,4.63923E+11,Bangalore,Karnataka,560070,25000,,,
-Sachin Tendulkar,7,7,1994,Male,AIZPV1234A,5.51128E+11,Kanchipuram,Tamil Nadu,603001,20000,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
+fullName,dobDay,dobMonth,dobYear,gender,incomeTaxId,universalId,currrentAddress,currrentAddressState,currrentAddressPincode,inquiryAmount
+Amitabh Bacchan,1,1,1988,Male,CHYPK1234L,8.86E+11,Hyderabad,Andhra Pradesh,500081,20000
+Amir Khan,2,2,1989,Male,CUXPM1234M,8.14E+11,Bangalore,Karnataka,560068,20000
+Sunny Deol,3,3,1990,Male,BCVPC1234K,6.40E+11,New Delhi,Delhi,110078,50000
+Bobby Deol,4,4,1991,Male,AXKPM1234L,6.12E+11,Jharsuguda,Odisha,768220,15000
+Hritik Roshan,5,5,1992,Male,BVCPR1234A,3.88E+11,Hyderabad,Telangana,500097,35000
+Rajkumar Rao,6,6,1993,Male,AETPA1234R,4.64E+11,Bangalore,Karnataka,560070,25000
+Sachin Tendulkar,11,11,1994,Male,AIZPV1234A,5.51E+11,Kanchipuram,Tamil Nadu,603001,20000
