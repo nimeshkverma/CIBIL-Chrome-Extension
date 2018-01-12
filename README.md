@@ -65,8 +65,3 @@ Contributing
 
 Fork at it.
 
-
-License
------
-
-[MIT](http://opensource.org/licenses/MIT)
