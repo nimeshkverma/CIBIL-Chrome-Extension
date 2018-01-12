@@ -32,7 +32,7 @@ Features / Description
 </p>
 
 - If you have to generate the report for a significant number of times, it is real pain to input each value in each of the field. This pluggin comes handy for this particular use case.
-- Using this pluggin you can Upload the data for the each of CIBIL Report you have to create in the form of a [CSV in the given format] (https://github.com/nimeshkverma/CIBIL-Chrome-Extension/blob/master/CIBIL-Input-Sample-Data.csv) and Pre Fill the data by just clicking on the next button.
+- Using this pluggin you can Upload the data for the each of CIBIL Report you have to create in the form of a [CSV in the given format](https://github.com/nimeshkverma/CIBIL-Chrome-Extension/blob/master/CIBIL-Input-Sample-Data.csv) and Pre Fill the data by just clicking on the next button.
 
 Usage Instructions
 -----
@@ -43,7 +43,7 @@ Usage Instructions
 <img src="https://github.com/nimeshkverma/CIBIL-Chrome-Extension/blob/master/images/CIBIL-Pluggin-Options.png">
 </p>
 
-- Click on the 'Choose File' button and select the a CSV file with the data you want to Prefill in the format similar to [this file] (https://github.com/nimeshkverma/CIBIL-Chrome-Extension/blob/master/CIBIL-Input-Sample-Data.csv)
+- Click on the 'Choose File' button and select the a CSV file with the data you want to Prefill in the format similar to [this file](https://github.com/nimeshkverma/CIBIL-Chrome-Extension/blob/master/CIBIL-Input-Sample-Data.csv)
 - Click on the 'Submit' button to Store the CSV data into the Chromes' LocalStorage
 - Click on the 'Next' button to Prefill the Data and get the following:
 
